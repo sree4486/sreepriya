@@ -18,8 +18,8 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tokenName = "BETA";
-    string public tokenAbbrv = "BTA";
+    string public tokenName = "BETH";
+    string public tokenAbbrv = "BTH";
     uint public totalSupply = 0;
 
     // mapping variable here
